@@ -1,0 +1,42 @@
+
+body {
+  background-color: #FEFBF6
+}
+
+.centered {
+    text-align: center;
+}
+.secret-text {
+  text-align: center;
+  max-width: 50%;
+  font-size: 1.4rem;
+  color: #fff;
+  background-color: #000;
+}
+.homeContainer{
+  background-color: white;
+  border-radius: 15px;
+  height: 20%;
+}
+.loginButton{
+  margin-bottom: 20px;
+}
+.registerButton{
+  margin-bottom: 20px;
+}
+.logo{
+  height: 200px;
+  border-radius: 15px;
+}
+.registerLogo{
+  margin-top: 3%;
+  margin-left: 1%;
+}
+
+.secretsContainer{
+  margin-right: auto;
+}
+.secret-text{
+  background-color: #3C4048;
+  border-radius: 15px;
+}
